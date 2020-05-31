@@ -1,0 +1,41 @@
+ body {
+     margin: 0;
+     min-width: 960px;
+     font-family: "Arial", sans-serif;
+     font-size: 16px;
+     line-height: 32px;
+ }
+ 
+ .p {
+     text-align: center;
+ }
+ 
+ nav {
+     text-align: auto;
+     padding-left: auto;
+     float: left;
+ }
+ 
+ .acide {
+     text-align: center;
+     width: 25%;
+     float: left;
+ }
+ 
+ section {
+     text-align: center;
+     width: 50%;
+     float: left;
+ }
+ 
+ h2 {
+     padding-left: 45px;
+ }
+ 
+ header {
+     text-align: center;
+ }
+ 
+ footer {
+     text-align: center;
+ }
